@@ -1,0 +1,8 @@
+language: cpp
+
+compiler: g++
+
+script:
+  - g++ ./2015_CodeGround/Problem1/Problem1.cpp
+  - g++ ./2015_CodeGround/Problem1/Problem2.cpp
+  - g++ ./2015_CodeGround/Problem1/Problem6.cpp
