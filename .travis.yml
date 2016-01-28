@@ -4,5 +4,5 @@ compiler: g++
 
 script:
   - g++ ./2015_CodeGround/Problem1/Problem1.cpp
-  - g++ ./2015_CodeGround/Problem1/Problem2.cpp
-  - g++ ./2015_CodeGround/Problem1/Problem6.cpp
+  - g++ ./2015_CodeGround/Problem2/Problem2.cpp
+  - g++ ./2015_CodeGround/Problem6/Problem6.cpp
